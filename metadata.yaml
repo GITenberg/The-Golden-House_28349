@@ -1,0 +1,30 @@
+_repo: The-Golden-House_28349
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baker, Sarah S. (Sarah Schoonmaker)
+    aliases:
+    - Baker, Sarah Schoonmaker Tuthill
+    - Aunt Friendly
+    - Baker, Mrs. Woods
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '31338'
+    url: http://www.gutenberg.org/2009/agents/31338
+description: ''
+gutenberg_issued: '2009-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Sweden -- Juvenile fiction'
+title: The Golden House
+url: http://www.gutenberg.org/ebooks/28349
